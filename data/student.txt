@@ -1,0 +1,5 @@
+1,quy,12,nam,hue,5.599999904632568
+2,huy,12,nam,hue,4.5
+3,quang,12,nam,hue,6.5
+4,dung,12,nam,hue,6.599999904632568
+5,hung,12,nam,hue,5.5
